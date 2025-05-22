@@ -1,1 +1,5 @@
-hello world
+git init
+git add .
+git commit -m "github learn"
+git branch -M main
+git remote add origin https://github.com/moridodos/github_learn.git
