@@ -4,7 +4,7 @@
 - git add .
 - git commit -m "github learn"
 - git branch -M main
-- git remote add origin https://github.com/moridodos/github_learn.git
+- git remote add origin [당신의 깃헙 URL]
 - git push -u origin main
 
 ## 변경된 사항 깃헙에 업로드 할때
